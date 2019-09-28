@@ -34,29 +34,31 @@ Challenges from Khan Academy https://www.khanacademy.org
 - What is a Schema?
 
 ### Statements:
-- SELECT
-- CREATE TABLE
-- DROP TABLE
-- CREATE INDEX
-- DROP INDEX
-- UPDATE
-- DELETE
-- INSERT INTO
-- CREATE DATABASE
+- SELECT  - extracts data from a database
+- CREATE TABLE  - creates a new database
+- DROP TABLE - deletes a table
+- CREATE INDEX  - creates an index (search key)
+- DROP INDEX  - deletes an index
+- UPDATE - updates data in a database
+- DELETE - deletes data from a database
+- INSERT INTO - inserts new data into a database
+- CREATE DATABASE  - creates a new database
 - DROP DATABASE
 - COMMIT (concept)
 - ROLLBACK (concept)
 
 ### Clauses:
-- DISTINCT
-- WHERE
-- IN
-- AND
-- OR
-- BETWEEN
-- LIKE
-- ORDER BY
-- COUNT
+- DISTINCT -The SELECT DISTINCT statement is used to return only distinct (different) values.
+- WHERE - The WHERE clause is used to filter records.
+- IN - The IN operator allows you to specify multiple values in a WHERE clause.
+- AND - The AND operator displays a record if all the conditions separated by AND are TRUE.
+- OR - The OR operator displays a record if any of the conditions separated by OR is TRUE.
+- BETWEEN - The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.
+- LIKE - The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+- ORDER BY - The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+- COUNT - The COUNT() function returns the number of rows that matches a specified criteria.
+- The AVG() function returns the average value of a numeric column.
+- The SUM() function returns the total sum of a numeric column.
 
 ### Functions
 - GROUP BY
