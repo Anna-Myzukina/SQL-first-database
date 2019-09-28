@@ -25,3 +25,49 @@ Challenges from Khan Academy https://www.khanacademy.org
 - How do you insert a record in SQL?
  
       The INSERT INTO statement is used to add new data to a database. The INSERT INTO statement adds a new record to a table.       INSERT INTO can contain values for some or all of its columns. INSERT INTO can be combined with a SELECT to insert              records.
+      
+      
+      
+### Important Concepts:
+- What is the Primary Key?
+- What are Foreign Keys?
+- What is a Schema?
+
+### Statements:
+- SELECT
+- CREATE TABLE
+- DROP TABLE
+- CREATE INDEX
+- DROP INDEX
+- UPDATE
+- DELETE
+- INSERT INTO
+- CREATE DATABASE
+- DROP DATABASE
+- COMMIT (concept)
+- ROLLBACK (concept)
+
+### Clauses:
+- DISTINCT
+- WHERE
+- IN
+- AND
+- OR
+- BETWEEN
+- LIKE
+- ORDER BY
+- COUNT
+
+### Functions
+- GROUP BY
+- HAVING
+- AVG
+- COUNT
+- MIN
+- MAX
+- SUM
+
+
+### Other Stuff
+- What are Indexes good for?
+- What’s the difference between WHERE and HAVING?
