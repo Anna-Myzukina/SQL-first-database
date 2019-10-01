@@ -1,6 +1,8 @@
 # SQL-first-database
 Challenges from Khan Academy https://www.khanacademy.org
 
+### [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
+
 ## Learning Outcomes:
 - What is a database?
 
