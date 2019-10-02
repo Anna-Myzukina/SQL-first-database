@@ -2,6 +2,7 @@
 Challenges from Khan Academy https://www.khanacademy.org
 
 ### [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
+### [OverAPI’s SQL Cheat Sheet](http://overapi.com/mysql)
 
 ## Learning Outcomes:
 - What is a database?
